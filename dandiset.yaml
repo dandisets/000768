@@ -6,8 +6,8 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  numberOfBytes: 1
+  numberOfFiles: 1
   schemaKey: AssetsSummary
 citation: Soliman, Sherif (2023) 20231222_AIBS_Patchseq_nonhuman_primate (Version
   draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
@@ -20,7 +20,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-12-18T18:50:53.146481+00:00'
-datePublished: '2023-12-18T18:51:52.861041+00:00'
+datePublished: '2023-12-19T19:38:24.146800+00:00'
 description: HMBA Lein PatchSeq upload (nonhuman primate) (Q4 2023)
 doi: 10.80507/dandi.123456/0.123456.1234
 id: DANDI:000768/draft
@@ -31,13 +31,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000768/versions/draft/assets/
 name: 20231222_AIBS_Patchseq_nonhuman_primate
 publishedBy:
-  endDate: '2023-12-18T18:51:52.861041+00:00'
-  id: urn:uuid:6b06749b-9dbd-4ef1-baa2-9badd2169785
+  endDate: '2023-12-19T19:38:24.146800+00:00'
+  id: urn:uuid:84c1d1a0-ec4a-493b-9593-03ec6c2552b6
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-12-18T18:51:52.861041+00:00'
+  startDate: '2023-12-19T19:38:24.146800+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:56c04be9-8a7d-4328-85ee-c1ef2c1b0d26
+  - id: urn:uuid:edaf5937-126a-4561-a4cd-77d876b69045
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
