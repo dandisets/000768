@@ -37,7 +37,7 @@ assetsSummary:
   - VoltageClampSeries
 citation: Soliman, Sherif; Lee, Brian; National Institute of Mental Health; Kalmbach,
   Brian; Dalley, Rachel; Lein, Ed (2023) 20231222_AIBS_Patchseq_nonhuman_primate (Version
-  draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  0.231221.2138) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000768/0.231221.2138
 contributor:
 - affiliation: []
   email: sherif.soliman@alleninstitute.org
@@ -98,9 +98,9 @@ contributor:
 dateCreated: '2023-12-18T18:50:53.146481+00:00'
 datePublished: '2023-12-21T21:38:17.717973+00:00'
 description: HMBA Lein PatchSeq upload (nonhuman primate) (Q4 2023)
-doi: 10.80507/dandi.123456/0.123456.1234
+doi: 10.48324/dandi.000768/0.231221.2138
 ethicsApproval: []
-id: DANDI:000768/draft
+id: DANDI:000768/0.231221.2138
 identifier: DANDI:000768
 keywords:
 - Patch-seq
@@ -109,7 +109,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000768/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000768/0.231221.2138/assets.yaml
 name: 20231222_AIBS_Patchseq_nonhuman_primate
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
@@ -131,6 +131,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget:
 - Multimodal classifcation of cell types in the non-human primate.
-url: https://dandiarchive.org/dandiset/000768/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000768/0.231221.2138
+version: 0.231221.2138
 wasGeneratedBy: []
